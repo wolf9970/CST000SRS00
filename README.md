@@ -19,8 +19,8 @@ Purpose: Demonstrate a 100% correct submission for the C++ Hello World program.
 
 Instructions: 
 
-- [ ] 0. Fork this repository.  
-- [ ] 1. Clone YOUR forked repository.  
+- [ ] 0. **Fork this repository.**  
+- [ ] 1. Clone YOUR forked repository.
 - [ ] 2. Modify main.cpp by uncommenting the code to output "hello, world".  
 - [ ] 3. Build and run the program.  
 - [ ] 4. Update this README.md file.  
