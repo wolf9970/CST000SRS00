@@ -2,18 +2,18 @@
 Hello World
 
 
-Class ID: *Pokemon*
+Class ID: *Your Unique ID*
 
 SRS ID: *CST???SRS00*
 
 Unresolved Issues:  None. 
 
-Notes: Compiled with Visual Studio 2017 on Windows 10. 
+Notes: None. 
+
+---
 
 See: [Wikipedia Hello, World! program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program).  
 See: [Wikipedia Markdown](https://en.wikipedia.org/wiki/Markdown).
-
----
 
 Purpose: Demonstrate a 100% correct submission for the C++ Hello World program. 
 
@@ -30,6 +30,4 @@ Instructions:
 - [ ] 8. Perform a Pull Request (PR). 
 - [ ] 9. Confirm the Pull Request is available on GitHub for this repository. 
 
-Your submission must be 100% correct. 
-
-No further submissions will be accepted until you have a 100% for this SRS. 
+If you want to contribute to this repository, email me a message and a Pull Request updating the instructions to make them clearer. 
